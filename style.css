@@ -1,0 +1,74 @@
+@charset "UTF-8";
+ body{
+    background-color: hsl(327, 53%, 90%);
+    font-size: 16px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+ }
+ #principal{
+    text-align: justify;
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 3%;
+ }
+ class{
+    font-weight: bold;
+ }
+ div{
+    text-align: center;
+ }
+ main{
+    margin: auto;
+    padding: 10px;
+    background-color: hsla(332, 51%, 32%, 0.103);
+    margin: auto;
+    border-radius: 5%;
+ }
+ .preparo{
+    color: hsl(332, 51%, 32%);
+    font-weight: bolder;
+ }
+
+ h1{
+    color: hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+
+ }
+h2{
+    color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+::marker{
+
+    color: hsl(14, 45%, 36%);
+}
+table {
+    width: 400px;
+    border-collapse: collapse; 
+}
+table td {
+    border-bottom: 1px solid black;
+    padding: 10px;
+    
+}
+table tr:last-child td {
+    border-bottom: none;
+}
+
+
+
+.peso{
+    color:hsl(14, 45%, 36%);
+    font-weight: bolder;
+}
+
